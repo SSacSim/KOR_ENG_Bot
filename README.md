@@ -1,5 +1,9 @@
-# SeSAC-x-Saltlux-Final-Project
+# KOR-ENG Bot(코잉봇)
+한영 챗봇
 
+아이들이 영어를 사용 할 수 있는 환경을 제공하고자 진행한 프로젝트.
+
+TTS/요약/감정분석/챗봇 모델을 fine-tuning하여 학습시켰으며, skt kobart/kobert를 사용하였습니다.
 
 ![파이널 발표자료  pptx_1](https://user-images.githubusercontent.com/91856512/174078321-d8f631ee-5c61-4933-8f90-5f71989fd3da.jpg)
 ![파이널 발표자료  pptx_2](https://user-images.githubusercontent.com/91856512/174078324-216f7f19-7348-4469-bf8c-11f6cfd72f24.jpg)
