@@ -1,38 +1,49 @@
-# KOR-ENG Bot(코잉봇)
-한영 챗봇
+## KOR-ENG Bot(코잉봇)
 
-아이들이 영어를 사용 할 수 있는 환경을 제공하고자 진행한 프로젝트.
+주최/주관 : 제주 테크노파크, 제주특별자치도 / 데이콘
 
-TTS/요약/감정분석/챗봇 모델을 fine-tuning하여 학습시켰으며, skt kobart/kobert를 사용하였습니다.
+진행 기간 : 2022.05.02 ~ 2022.06.07
+팀 구성  : 5명
 
-![파이널 발표자료  pptx_1](https://user-images.githubusercontent.com/91856512/174078321-d8f631ee-5c61-4933-8f90-5f71989fd3da.jpg)
-![파이널 발표자료  pptx_2](https://user-images.githubusercontent.com/91856512/174078324-216f7f19-7348-4469-bf8c-11f6cfd72f24.jpg)
-![파이널 발표자료  pptx_3](https://user-images.githubusercontent.com/91856512/174078329-c3386e06-9218-460f-bd6d-012709c84226.jpg)
-![파이널 발표자료  pptx_4](https://user-images.githubusercontent.com/91856512/174078331-4030c208-90c2-42bc-b350-44acfdfef344.jpg)
-![파이널 발표자료  pptx_5](https://user-images.githubusercontent.com/91856512/174078333-789d6625-0764-49f5-bce7-c65009fd59a6.jpg)
-![파이널 발표자료  pptx_6](https://user-images.githubusercontent.com/91856512/174078335-336ba17f-026e-469f-a5ab-46b08b754077.jpg)
-![파이널 발표자료  pptx_7](https://user-images.githubusercontent.com/91856512/174078336-d0625bdc-0dac-419a-8c5e-21e37da8af1d.jpg)
-![파이널 발표자료  pptx_8](https://user-images.githubusercontent.com/91856512/174078337-d996f1eb-04ef-4b0a-8d52-6a70051545bb.jpg)
-![파이널 발표자료  pptx_9](https://user-images.githubusercontent.com/91856512/174078343-b80a6d8e-b597-403d-b268-44ef7131cbba.jpg)
-![파이널 발표자료  pptx_10](https://user-images.githubusercontent.com/91856512/174078345-8873c20a-3c78-4c85-8fc5-5d836c42d7e6.jpg)
-![파이널 발표자료  pptx_11](https://user-images.githubusercontent.com/91856512/174078347-df790028-02ff-4c83-9638-885924bd7675.jpg)
-![파이널 발표자료  pptx_12](https://user-images.githubusercontent.com/91856512/174078350-db335692-e6bc-4616-9ea2-685de2cecd6a.jpg)
-![파이널 발표자료  pptx_13](https://user-images.githubusercontent.com/91856512/174078351-b52a3fad-451d-44f2-a937-4154cae5de44.jpg)
-![파이널 발표자료  pptx_14](https://user-images.githubusercontent.com/91856512/174078355-7a728155-9f91-46c7-a402-c9cf16e1a139.jpg)
-![파이널 발표자료  pptx_15](https://user-images.githubusercontent.com/91856512/174078357-0256f2dc-826e-4901-89fd-d6601217959e.jpg)
-![파이널 발표자료  pptx_16](https://user-images.githubusercontent.com/91856512/174078360-b690c285-d613-4a60-bb30-8064c08edbaa.jpg)
-![파이널 발표자료  pptx_17](https://user-images.githubusercontent.com/91856512/174078361-69665018-4c1c-4be1-adab-7ab49b86bd3a.jpg)
-![파이널 발표자료  pptx_18](https://user-images.githubusercontent.com/91856512/174078362-7281030f-76b7-4305-8f25-f549f7beed80.jpg)
-![파이널 발표자료  pptx_19](https://user-images.githubusercontent.com/91856512/174078364-8ef1ec84-700b-45ec-b0a8-8722767a457d.jpg)
-![파이널 발표자료  pptx_20](https://user-images.githubusercontent.com/91856512/174078369-5c24f270-35e3-4c19-a04e-b6c7ffd78051.jpg)
-![파이널 발표자료  pptx_21](https://user-images.githubusercontent.com/91856512/174078373-f3ea3e19-b3b2-4cc0-a359-31bd5b93f011.jpg)
-![파이널 발표자료  pptx_22](https://user-images.githubusercontent.com/91856512/174078378-a4230965-9256-4f3d-ab30-4b2180228f14.jpg)
-![파이널 발표자료  pptx_23](https://user-images.githubusercontent.com/91856512/174078381-ce667ec8-2471-42d1-9120-6ae6e5660570.jpg)
-![파이널 발표자료  pptx_24](https://user-images.githubusercontent.com/91856512/174078382-a70d3fdb-5757-4301-9e1b-1496692855d0.jpg)
-![파이널 발표자료  pptx_25](https://user-images.githubusercontent.com/91856512/174078384-ad79fe87-43c8-4827-a457-8aa907b93e79.jpg)
-![파이널 발표자료  pptx_26](https://user-images.githubusercontent.com/91856512/174078390-67e82861-3f27-4365-8ad2-d6bbd04cc1ee.jpg)
-![파이널 발표자료  pptx_27](https://user-images.githubusercontent.com/91856512/174078395-9bd9d832-e4a0-4984-8583-3da7cd709288.jpg)
-![파이널 발표자료  pptx_28](https://user-images.githubusercontent.com/91856512/174078399-bf98b59c-ae06-4add-aa4e-14fda7ce46d3.jpg)
-![파이널 발표자료  pptx_29](https://user-images.githubusercontent.com/91856512/174078401-0725519e-078d-481e-9c21-ba0cab6a5815.jpg)
-![파이널 발표자료  pptx_30](https://user-images.githubusercontent.com/91856512/174078404-26ab84d5-1bfa-4b2d-83ad-c118deeee22b.jpg)
-![파이널 발표자료  pptx_31](https://user-images.githubusercontent.com/91856512/174078408-47262db2-b364-4211-8e15-8ba6d675b212.jpg)
+프로젝트 설명:
+  * 
+  
+프로젝트 진행 배경:
+  * ‘한국 교육 통계 서비스’에 따르면, 초등학생에게 월별 영어 사교육비의 부담이 가장 높은 걸로 파악.
+  * 영어 사교육 부담이 가장 높다는 의미 > 어릴때부터 영어를 자연럽게 접할 수 있는 환경을 얻기위해 사교육비 지불.
+  * 자녀가 영어에 익숙해지길 원하는 부모들의 수요를 충족시켜 줄 수 있는 챗봇을 만들어 서비스 제공.
+  
+제공 서비스 :
+  * 자녀가 영어에 익숙해지길 원하는 부모들의 수요를 충족시켜 줄 수 있는 챗봇을 만들어 서비스 제공.
+  * 아이와 챗봇의 대화 내용을 바탕으로 부모에게 아이 대화 내역을 요약해주는 서비스를 제공하여 아이 케어에 도움을 주는 서비스
+  * 아이의 대화 내용을 이용하여 아이의 감정상태를 분류하여 부모에게 알려주는 서비스
+ * * *
+ ## 대회 진행 환경 & 역할
+ 프로젝트 진행 환경 : Google Colab, Visual_Studio, AWS, React_Native, django ...
+ 
+ 역할 :
+  * 모델 구축
+    * 대화 생성에 필요한 데이터 전처리
+    * Bart, Bert 모델 Pipline 구축 및 Transfer Learning 진행
+    * mimic studio를 이용한 음성 데이터 수집 ( pyautogui을 이용한 자동화 )
+    * Glow-TTS , HiFi-Gan을 사용한 TTS 학습 진행
+* * *
+## 진행 상세 과정
+1.데이터 전처리
+  * AI 허브의 데이터는 성인 대화 내용 > 아이에게 불필요한 단어가 있는 것을 확인하여 제거
+  
+2.생성 모델링 (대화 생성 & 대화 요약)
+  * Pre-Trained 된 KoBart 모델을 이용하여 전처리한 데이터를 Transfer-learning을 통해 보다 아이에게 적합한 응답을 할 수 있도록 학습 
+  * 대화 생성, 요약 2개를 모델을 같은 KoBart모델로 제작 ( 학습 데이터만 상이 )
+
+3.분류 모델링 ( 감정 분류 )
+  * 네이버 영화 평가 데이터로 학습된 KoBert를 베이스로 Transfer-learning을 진행하여 대화를 6가지 감정으로 분류
+  
+4.TTS 모델링 ( 음성 ) 
+  * 특정 목소리(한글) 수집
+  * Glow-TTS + HiFi-GAN을 통해 TTS 학습
+
+5. 앱 서비스
+  * React-Native을 이용하여 Front 구성
+  * Model 예측을 API화 시켜 서버 배포
+  * 아이의 정보 / 대화내용 RDS 구축
