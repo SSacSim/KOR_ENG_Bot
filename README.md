@@ -43,6 +43,7 @@
   * 특정 목소리(한글) 수집
   * Glow-TTS + HiFi-GAN을 통해 TTS 학습
 
+
 5. 앱 서비스
   * React-Native을 이용하여 Front 구성
   * Model 예측을 API화 시켜 서버 배포
